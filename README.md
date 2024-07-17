@@ -17,7 +17,6 @@ This project is a basic calculator implemented using HTML and CSS.
    ```bash
    https://github.com/harshl7081/SUMMER-INTERNSHIP/tree/main/task-1
 
-
 # Week-2 Myntra Clone
 
 This project is a clone of the Myntra website, implemented using HTML and CSS for the user interface. It aims to replicate the main features and styling of Myntra's online fashion store.
@@ -69,6 +68,3 @@ This project is a browser-based implementation of the classic Connect-4 game usi
 1. **Clone the repository**:
    ```bash
    https://github.com/harshl7081/SUMMER-INTERNSHIP/tree/main/task-4
-
-
-
