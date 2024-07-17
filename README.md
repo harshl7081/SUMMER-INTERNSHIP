@@ -12,9 +12,11 @@ This project is a basic calculator implemented using HTML and CSS.
 
 ## Installation and Usage
 
-1.⁠ ⁠*Clone the repository*:
-   ⁠ bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-1
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/calculator.git
+
 
 # Week-2 Myntra Clone
 
